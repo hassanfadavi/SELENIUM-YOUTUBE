@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <test name="Test">
+        <classes>
+            <class name="Befror_After_Methods.Before_After_Test.test1" />
+            <class name="Befror_After_Methods.Before_After_Test.test2" />
+        </classes>
+    </test>
+
+    //or
+<!--    <test name="Test1">-->
+<!--        <classes>-->
+<!--            <class name="Before_After_Test.test1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="Test2">-->
+<!--        <classes>-->
+<!--            <class name="Before_After_Test.test2" />-->
+<!--        </classes>-->
+<!--    </test>-->
+
+</suite>
