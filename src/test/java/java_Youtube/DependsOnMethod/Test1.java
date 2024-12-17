@@ -1,4 +1,4 @@
-package DependsOnMethod;
+package java_Youtube.DependsOnMethod;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
