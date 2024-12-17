@@ -7,7 +7,7 @@
             <run>
 <!--                <include name="logIn"/>-->
                 <include name="logOut"/>
-<!--                <exclude name="logOut"/>-->
+                <exclude name="logOut"/>
             </run>
         </groups>
 

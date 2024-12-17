@@ -1,4 +1,4 @@
-package Assertions;
+package java_Youtube.Assertions;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
