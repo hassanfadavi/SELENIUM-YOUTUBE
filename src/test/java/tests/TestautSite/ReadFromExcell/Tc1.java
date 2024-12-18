@@ -1,12 +1,9 @@
 package tests.TestautSite.ReadFromExcell;
 
 import base.BaseTest;
-import org.testng.Assert;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import pages.TestautWebsite.DownloadFilePage_PF;
-import pages.TestautWebsite.HiddenElementPage_PF;
-import pages.TestautWebsite.LandingPage_PF;
+import pages.TestautWebsite_PF.HiddenElementPage_PF;
+import pages.TestautWebsite_PF.LandingPage_PF;
 import utils.WaitUtils;
 
 public class Tc1 extends BaseTest {

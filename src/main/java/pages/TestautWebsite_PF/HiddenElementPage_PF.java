@@ -1,4 +1,4 @@
-package pages.TestautWebsite;
+package pages.TestautWebsite_PF;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

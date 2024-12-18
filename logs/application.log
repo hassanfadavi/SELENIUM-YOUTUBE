@@ -534,3 +534,593 @@
 2024-12-17 12:11:38 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
 2024-12-17 12:11:43 INFO  BaseTest:40 - Started test with URL https://testautomationpractice.blogspot.com/
 2024-12-17 12:11:45 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-17 18:45:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-17 18:48:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-17 18:48:07 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-17 18:48:07 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-17 18:48:09 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-17 18:48:09 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-17 18:48:15 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-17 18:48:17 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-17 18:49:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-17 18:56:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-17 18:56:24 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-17 18:56:24 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-17 18:56:24 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-17 18:56:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-17 18:56:28 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-17 18:56:31 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-17 18:57:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-17 18:57:25 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-17 18:57:25 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-17 18:57:26 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-17 18:57:26 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-17 18:57:30 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-17 18:57:33 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-17 18:58:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-17 18:58:41 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-17 18:58:41 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-17 18:58:42 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-17 18:58:42 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-17 18:58:46 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-17 18:58:48 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 09:08:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:08:52 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:08:52 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:08:53 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:08:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:08:58 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:09:00 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 09:16:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:16:10 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:16:10 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:16:10 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:16:11 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:16:15 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:16:17 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 09:18:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:18:18 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:18:18 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:18:19 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:18:19 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:18:23 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:18:25 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 09:20:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:20:28 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:20:28 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:20:29 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:20:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:20:32 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:20:34 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 09:21:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:21:21 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:21:21 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:21:21 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:21:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:21:25 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:21:26 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 09:21:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:21:58 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:21:58 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:21:58 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:21:58 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:22:04 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:22:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:22:24 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:22:24 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:22:24 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:22:24 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:22:29 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:22:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:22:55 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:22:55 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:22:56 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:22:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:23:02 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:29:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:29:31 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:29:31 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:29:33 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:29:33 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:29:41 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:30:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:30:00 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:30:00 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:30:01 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:30:01 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:30:09 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:30:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:30:25 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:30:25 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:30:25 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:30:25 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:30:34 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:30:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:30:50 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:30:50 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:30:50 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:30:51 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:30:58 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:31:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:31:27 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:31:27 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:31:27 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:31:28 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:31:36 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:31:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:31:52 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:31:52 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:31:53 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:31:53 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:32:04 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:32:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:32:21 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:32:21 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:32:21 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:32:21 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:32:29 INFO  BaseTest:40 - Started test with URL https://demo.nopcommerce.com/
+2024-12-18 09:36:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:36:05 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:36:05 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:36:05 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:36:05 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:36:14 INFO  BaseTest:40 - Started test with URL https://dribbble.com/
+2024-12-18 09:37:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:37:50 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:37:50 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:37:51 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:37:51 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:37:59 INFO  BaseTest:40 - Started test with URL https://dribbble.com/
+2024-12-18 09:44:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:44:17 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:44:17 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:44:18 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:44:18 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:44:30 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:45:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:45:04 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:45:04 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:45:04 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:45:04 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:45:19 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:45:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:45:32 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:45:32 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:45:33 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:45:33 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:45:48 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:46:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:46:37 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:46:37 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:46:37 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:46:37 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:46:57 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:48:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:48:51 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:48:51 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:48:52 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:48:52 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:49:08 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:50:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:50:36 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:50:36 INFO  ConfigManager:55 - Configuration loaded for browser FIREFOX
+2024-12-18 09:50:37 INFO  WebDriverManager:1220 - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-18 09:50:37 INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\hassan\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-18 09:50:53 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:51:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:51:19 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:51:19 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:51:20 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:51:20 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:51:28 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:51:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:51:51 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:51:51 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:51:52 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:51:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:52:10 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:53:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:53:13 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:53:13 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:53:14 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:53:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:53:20 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:56:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:56:28 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:56:28 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:56:29 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:56:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:56:47 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:57:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:57:25 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:57:25 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:57:25 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:57:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:57:44 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:58:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:58:49 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:58:49 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:58:50 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:58:50 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:59:40 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 09:59:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 09:59:49 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 09:59:49 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 09:59:50 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 09:59:50 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 09:59:55 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:02:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:02:37 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:02:37 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:02:38 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:02:38 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:02:43 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:08:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:09:00 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:09:00 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:09:02 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:09:02 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:09:10 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:10:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:10:51 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:10:51 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:10:51 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:10:52 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:10:57 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:12:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:12:30 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:12:30 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:12:31 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:12:31 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:12:38 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:14:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:14:46 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:14:46 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:14:47 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:14:47 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:14:54 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:15:46 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:15:46 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:15:46 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:15:46 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:15:52 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:17:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:17:10 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:17:10 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:17:11 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:17:11 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:17:17 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:19:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:19:10 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:19:10 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:19:11 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:19:11 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:19:30 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:20:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:20:50 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:20:50 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:20:50 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:20:50 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:20:59 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:21:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:21:52 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:21:52 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:21:53 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:21:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:21:59 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:25:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:25:14 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:25:14 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:25:15 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:25:15 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:25:20 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:26:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:26:20 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:26:20 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:26:21 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:26:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:26:37 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:27:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:27:06 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:27:06 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:27:07 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:27:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:27:13 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:28:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:28:31 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:28:31 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:28:32 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:28:32 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:28:38 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:30:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:30:20 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:30:20 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:30:21 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:30:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:30:28 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:32:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:32:17 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:32:17 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:32:18 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:32:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:32:25 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:34:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:34:53 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:34:53 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:34:54 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:34:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:35:01 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:38:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:38:17 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:38:17 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:38:18 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:38:18 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:38:23 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:39:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:39:27 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:39:27 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:39:27 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:39:27 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:39:33 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:40:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:40:41 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:40:41 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:40:42 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:40:42 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:40:47 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:41:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:41:39 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:41:39 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:41:40 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:41:40 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:42:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:42:05 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:42:05 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:42:06 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:42:06 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:49:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:49:33 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:49:33 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:49:34 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:49:34 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:49:40 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:50:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:50:29 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:50:29 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:50:30 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:50:30 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:50:36 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 10:51:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 10:51:55 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 10:51:55 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 10:51:56 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 10:51:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 10:52:02 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:23:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:23:48 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:23:48 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:23:49 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:23:49 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:23:59 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:36:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:36:55 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:36:55 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:36:56 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:36:56 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:37:02 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:41:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:41:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:43:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:44:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:44:43 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:44:43 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:44:43 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:44:43 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:44:49 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:46:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:46:35 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:46:35 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:46:35 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:46:35 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:46:42 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:47:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:47:15 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:47:15 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:47:16 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:47:16 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:47:22 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:48:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:48:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:50:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:50:25 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:50:25 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:50:25 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:50:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:50:31 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 11:56:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 11:56:54 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 11:56:54 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 11:56:55 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 11:56:55 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 11:57:01 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 12:06:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 12:06:20 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 12:06:20 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 12:06:20 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 12:06:21 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 12:06:27 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 12:08:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 12:08:08 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 12:08:08 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 12:08:09 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 12:08:09 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 12:08:26 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 12:10:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 12:10:11 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 12:10:11 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 12:10:12 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 12:10:12 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 12:10:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-12-18 12:10:35 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-18 12:10:35 INFO  ConfigManager:55 - Configuration loaded for browser CHROME
+2024-12-18 12:10:36 INFO  WebDriverManager:1220 - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2024-12-18 12:10:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\hassan\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2024-12-18 12:10:37 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 12:10:49 INFO  BaseTest:40 - Started test with URL https://practice.automationtesting.in/
+2024-12-18 12:11:09 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 12:11:19 INFO  BaseTest:55 - Driver instance is quit after the test
+2024-12-18 12:16:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hassan\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+

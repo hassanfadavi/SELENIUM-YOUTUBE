@@ -1,15 +1,21 @@
-//package runners;
-//
-//
-//import io.cucumber.testng.AbstractTestNGCucumberTests;
-//import io.cucumber.testng.CucumberOptions;
-//
-//
-//@CucumberOptions(
+package runners;
+
+
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.CucumberOptions;
+
+
+@CucumberOptions(
 //
 //        //Amazon
-////        features = "src/test/resources/features/amazon/CreatAccount.feature",         //accept either class or package
-////        glue = "stepdefinations/amazon"     //just accept the package
+        features = "src/test/resources/features/Practice/login.feature",         //accept either class or package
+        glue = "stepdefinations/Practice",  //just accept the package
+        plugin={"pretty","html:test-output","json:json_output/cucumber.json","junit:junit_xml_output/cucumber.xml"},    //generate different type of reporting
+        dryRun = false,    //to check the mapping  between stepdefination file and features file(by default is false) if you set to true,testcase wont be run,just check it
+        monochrome = true    //display the console output is a proper readable format
+
+
+
 //
 //
 ////        navigateToGoogle
@@ -23,9 +29,9 @@
 ////        features = "src/test/resources/features/google/NavigateToGoogleAboutPage.feature",         //accept either class or package
 ////        glue = "stepdefinations/google/about"     //just accept the package
 //
-//)
+)
 //
-//public class TestRunner extends  AbstractTestNGCucumberTests {
-//
-//
-//}
+public class TestRunner extends  AbstractTestNGCucumberTests {
+
+
+}
