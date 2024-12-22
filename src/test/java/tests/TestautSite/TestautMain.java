@@ -4,9 +4,9 @@ import base.BaseTest;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.TestautWebsite_PF.DownloadFilePage_PF;
-import pages.TestautWebsite_PF.HiddenElementPage_PF;
-import pages.TestautWebsite_PF.LandingPage_PF;
+import pages.TestautWebsite_PF_TestNg.DownloadFilePage_PF;
+import pages.TestautWebsite_PF_TestNg.HiddenElementPage_PF;
+import pages.TestautWebsite_PF_TestNg.LandingPage_PF;
 import utils.WaitUtils;
 
 public class TestautMain extends BaseTest {

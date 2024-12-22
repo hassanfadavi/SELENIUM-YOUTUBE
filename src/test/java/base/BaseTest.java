@@ -51,8 +51,8 @@ public class BaseTest {
     @AfterMethod
     public void tearDown() {
 //         Quit the WebDriver and close the browser window
-            DriverFactory.quitDriver();
-            logger.info("Driver instance is quit after the test");
+//            DriverFactory.quitDriver();
+//            logger.info("Driver instance is quit after the test");
 
 
     }

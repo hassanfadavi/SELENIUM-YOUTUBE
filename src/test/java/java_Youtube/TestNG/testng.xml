@@ -4,7 +4,7 @@
 
         <classes>
             <!-- Specify your test class here -->
-            <class name="TestNG.Ac1"/>
+            <class name="java_Youtube.TestNG.Ac1"/>
         </classes>
     </test>
 </suite>
